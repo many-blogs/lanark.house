@@ -1,0 +1,328 @@
+{
+  "package_version": 1,
+  "site_id": "lanark",
+  "source": {
+    "repo": "many-blogs/lanark.house",
+    "ref": "main",
+    "sha": "710ac21f5fdb50e5313fa42a329f0075bfe626a2",
+    "packaged_at": "2026-11-13T19:58:27.231Z",
+    "workflow_run_url": "https://github.com/many-blogs/lanark.house/actions/runs/43497162258"
+  },
+  "posts": [
+    {
+      "path": "posts/house/2024-11-01-introduction.mdx",
+      "source_path": "_posts/house/2024-11-01-introduction.md",
+      "sha256": "7df85f97c137556314aeee9fff9584f55a349e68bfd66656ba0e7e5abad63cd4",
+      "title": "My Journey Home: A Guide to Navigating the New Home Build Process",
+      "date": "2024-11-01 12:00:00 -0700",
+      "categories": [
+        "house"
+      ],
+      "tags": [
+        "home-buying",
+        "introduction",
+        "lessons-learned"
+      ],
+      "description_derived": true,
+      "tags_derived": false,
+      "normalized": true
+    },
+    {
+      "path": "posts/house/2025-07-26-conclusion.mdx",
+      "source_path": "_posts/house/2025-07-26-conclusion.md",
+      "sha256": "952bef0393b38118c6f39a96fb5f0c86db67bbc0bbdac0663d48b0055e3967f6",
+      "title": "Lessons from the Lanark House: A Final Reflection",
+      "date": "2025-07-26 12:45:00 -0600",
+      "categories": [
+        "house"
+      ],
+      "tags": [
+        "home-buying",
+        "conclusion",
+        "lessons-learned"
+      ],
+      "description_derived": true,
+      "tags_derived": false,
+      "normalized": true
+    },
+    {
+      "path": "posts/house/douglas-homes/2024-11-10-a-tale-of-red-flags-and-transparency.mdx",
+      "source_path": "_posts/house/douglas-homes/2024-11-10-a-tale-of-red-flags-and-transparency.md",
+      "sha256": "d354a3ac6b63da5feaf0a0a9a17d1bd51f8bd38c4e01b8852186a0529a11f3ca",
+      "title": "Douglas Homes Calgary Review: A Tale of Red Flags and Transparency",
+      "date": "2024-11-10 12:00:00 -0700",
+      "categories": [
+        "house",
+        "douglas-homes"
+      ],
+      "tags": [
+        "douglas-homes-calgary",
+        "douglas-homes-reviews",
+        "new-home-builder-calgary",
+        "home-builder-complaints",
+        "new-home-warranty-alberta"
+      ],
+      "description_derived": false,
+      "tags_derived": false,
+      "normalized": false
+    },
+    {
+      "path": "posts/house/douglas-homes/2024-11-18-the-8-inch-divide.mdx",
+      "source_path": "_posts/house/douglas-homes/2024-11-18-the-8-inch-divide.md",
+      "sha256": "0e33d936def759721932e83292bb05f78dedb1c358b21912c6cba4f7359e83b1",
+      "title": "Douglas Homes Review: The 8-Inch Divide That Ended My Home Purchase",
+      "date": "2024-11-18 14:41:00 -0700",
+      "categories": [
+        "house",
+        "douglas-homes"
+      ],
+      "tags": [
+        "douglas-homes-calgary",
+        "douglas-homes-reviews",
+        "new-home-builder-calgary",
+        "home-builder-complaints",
+        "new-home-warranty-alberta",
+        "plot-plan-dispute"
+      ],
+      "description_derived": false,
+      "tags_derived": false,
+      "normalized": false
+    },
+    {
+      "path": "posts/house/douglas-homes/2024-11-20-a-cautionary-tale.mdx",
+      "source_path": "_posts/house/douglas-homes/2024-11-20-a-cautionary-tale.md",
+      "sha256": "69d06fe04149f812e9310b25f8e574fed697e9f3e86109e240474d209231b1aa",
+      "title": "Douglas Homes Complaint: A Cautionary Tale for Calgary Home Buyers",
+      "date": "2024-11-20 17:55:00 -0700",
+      "categories": [
+        "house",
+        "douglas-homes"
+      ],
+      "tags": [
+        "douglas-homes-calgary",
+        "douglas-homes-reviews",
+        "new-home-builder-calgary",
+        "home-builder-complaints",
+        "new-home-warranty-alberta",
+        "trish-braun"
+      ],
+      "description_derived": false,
+      "tags_derived": false,
+      "normalized": false
+    },
+    {
+      "path": "posts/house/jayman-built/2025-03-04-a-tale-of-two-contracts.mdx",
+      "source_path": "_posts/house/jayman-built/2025-03-04-a-tale-of-two-contracts.md",
+      "sha256": "658ec07711106aa3cd68f87fdc86de9856ee9e2e4a0fb1e2f089321fc9e31d37",
+      "title": "Jayman Built Calgary Review: A Tale of Two Contracts",
+      "date": "2025-03-04 12:00:00 -0700",
+      "categories": [
+        "house",
+        "jayman-built"
+      ],
+      "tags": [
+        "jayman-built-calgary",
+        "jayman-built-reviews",
+        "new-home-builder-calgary",
+        "home-builder-complaints",
+        "new-home-warranty-alberta",
+        "avid-ratings",
+        "trustedpros"
+      ],
+      "description_derived": false,
+      "tags_derived": false,
+      "normalized": false
+    },
+    {
+      "path": "posts/house/jayman-built/2025-04-28-the-shower-and-the-silence.mdx",
+      "source_path": "_posts/house/jayman-built/2025-04-28-the-shower-and-the-silence.md",
+      "sha256": "9105fb945f50a442578b4621ab28a364d070e6517f861582d4b9171819f9504f",
+      "title": "The Shower and the Silence: A Story of Unmet Expectations",
+      "date": "2025-04-28 15:29:08 -0600",
+      "categories": [
+        "house",
+        "jayman-built"
+      ],
+      "tags": [
+        "jayman-built",
+        "home-buying",
+        "contracts",
+        "transparency",
+        "lessons-learned",
+        "dispute"
+      ],
+      "description_derived": true,
+      "tags_derived": false,
+      "normalized": true
+    },
+    {
+      "path": "posts/house/sterling-homes/2025-05-03-a-new-beginning.mdx",
+      "source_path": "_posts/house/sterling-homes/2025-05-03-a-new-beginning.md",
+      "sha256": "d60f8dbff18af7c307da3972dcdeaa5d3d98ea320e7ddb6619f6bc30d778c86b",
+      "title": "Sterling Homes Calgary Review: A New Beginning",
+      "date": "2025-05-03 01:00:00 -06:00",
+      "categories": [
+        "house",
+        "sterling-homes"
+      ],
+      "tags": [
+        "sterling-homes-calgary",
+        "sterling-homes-reviews",
+        "new-home-builder-calgary",
+        "avid-ratings",
+        "home-awards",
+        "new-home-warranty-alberta"
+      ],
+      "description_derived": false,
+      "tags_derived": false,
+      "normalized": false
+    },
+    {
+      "path": "posts/house/sterling-homes/2025-06-02-the-unveiled-reality-of-homeownership.mdx",
+      "source_path": "_posts/house/sterling-homes/2025-06-02-the-unveiled-reality-of-homeownership.md",
+      "sha256": "80cd14a94fe5613f76b8b0b639645248ee07d7955a717de29b1593c81af80103",
+      "title": "Sterling Homes Calgary Review: The Unveiled Reality of Homeownership",
+      "date": "2025-06-02 01:00:00 -06:00",
+      "categories": [
+        "house",
+        "sterling-homes"
+      ],
+      "tags": [
+        "sterling-homes-calgary",
+        "sterling-homes-reviews",
+        "new-home-builder-calgary",
+        "home-builder-complaints",
+        "new-home-warranty-alberta",
+        "virtuo-app"
+      ],
+      "description_derived": false,
+      "tags_derived": false,
+      "normalized": false
+    },
+    {
+      "path": "posts/house/sterling-homes/2025-06-15-something-about-mike.mdx",
+      "source_path": "_posts/house/sterling-homes/2025-06-15-something-about-mike.md",
+      "sha256": "de105912fd19dd479bf7789ea7bd438a81488304a3ad29be8ec40bbc05c04ec1",
+      "title": "Something About Mike: A Candid Review",
+      "date": "2025-06-15 01:00:00 -06:00",
+      "categories": [
+        "house",
+        "sterling-homes"
+      ],
+      "tags": [
+        "sterling-homes",
+        "home-buying",
+        "customer-service",
+        "transparency",
+        "lessons-learned"
+      ],
+      "description_derived": true,
+      "tags_derived": false,
+      "normalized": true
+    },
+    {
+      "path": "posts/house/sterling-homes/2025-06-20-unfiltered-feedback.mdx",
+      "source_path": "_posts/house/sterling-homes/2025-06-20-unfiltered-feedback.md",
+      "sha256": "cc2e382b42960a1f2b4e6ddda9c2f920f131646802689cb305c71e2b6c47f384",
+      "title": "My Unfiltered Feedback to Sterling Homes",
+      "date": "2025-06-20 01:00:00 -06:00",
+      "categories": [
+        "house",
+        "sterling-homes"
+      ],
+      "tags": [
+        "sterling-homes",
+        "home-buying",
+        "customer-service",
+        "transparency",
+        "lessons-learned",
+        "virtuo"
+      ],
+      "description_derived": true,
+      "tags_derived": false,
+      "normalized": true
+    },
+    {
+      "path": "posts/house/sterling-homes/2025-07-12-warranty-and-repair-review.mdx",
+      "source_path": "_posts/house/sterling-homes/2025-07-12-warranty-and-repair-review.md",
+      "sha256": "f02ee3ee5a9e6c97486560e57bdfb49d3b385ab4ae0e19d7f2087c20345316fd",
+      "title": "The State of the House: A Sterling Homes Warranty and Repair Review",
+      "date": "2025-07-12 20:06:51 -06:00",
+      "categories": [
+        "house",
+        "sterling-homes"
+      ],
+      "tags": [
+        "sterling-homes",
+        "home-buying",
+        "customer-service",
+        "transparency",
+        "lessons-learned",
+        "warranty",
+        "repair"
+      ],
+      "description_derived": true,
+      "tags_derived": false,
+      "normalized": true
+    },
+    {
+      "path": "posts/house/sterling-homes/2025-08-15-weekly-warranty-follow-up-week-33.mdx",
+      "source_path": "_posts/house/sterling-homes/2025-08-15-weekly-warranty-follow-up-week-33.md",
+      "sha256": "98fe909a852a2047b96b0259c214e2c6cb48af7a359c079e91a1e81f61f14ace",
+      "title": "Weekly Warranty Follow-up - Week 33",
+      "date": "2025-08-15 00:00:00 -0700",
+      "categories": [
+        "house",
+        "sterling-homes",
+        "warranty"
+      ],
+      "tags": [
+        "warranty",
+        "sterling homes",
+        "follow-up",
+        "home construction"
+      ],
+      "description_derived": true,
+      "tags_derived": false,
+      "normalized": true
+    }
+  ],
+  "builders": [
+    {
+      "path": "builders/douglas-homes.mdx",
+      "source_path": "builders/douglas-homes.md",
+      "sha256": "a7644d298a50e7e40b798d397f204438ad5875744db9d2c2477f28f9e699d3fc",
+      "builder": "douglas-homes",
+      "title": "Douglas Homes Review",
+      "rating": 1,
+      "pros_cons_defaulted": false
+    },
+    {
+      "path": "builders/jayman-built.mdx",
+      "source_path": "builders/jayman-built.md",
+      "sha256": "f58f74e32978912db5a43e9e8045d3cbbf4c98bacc6e7bafaee146d05b9b95a0",
+      "builder": "jayman-built",
+      "title": "Jayman Built Review",
+      "rating": 2,
+      "pros_cons_defaulted": false
+    },
+    {
+      "path": "builders/sterling-homes.mdx",
+      "source_path": "builders/sterling-homes.md",
+      "sha256": "4273ed7a489e185a51cec1c65d3360612fca33961ec1e36b895d8c4040864872",
+      "builder": "sterling-homes",
+      "title": "Sterling Homes Review",
+      "rating": 4,
+      "pros_cons_defaulted": false
+    }
+  ],
+  "excluded": {
+    "drafts": 48,
+    "unpublished_posts": 0,
+    "skipped_non_markdown": 1
+  },
+  "counts": {
+    "posts": 13,
+    "builders": 3
+  }
+}
